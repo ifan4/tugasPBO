@@ -1,7 +1,6 @@
 # tugasPBO
 Nama Anggota Kelompok : - Ifana Andriansyah (1905044) 
                         - Muhammad Yusuf Nur Sidiq (1904467)
-
 Kelas : Pendidikan Ilmu Komputer A
 
 Deskripsi modifikasi/tambahan yang dilakukan :
